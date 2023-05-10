@@ -1,0 +1,2 @@
+合并txt文件：
+type *.txt>>all.txt
